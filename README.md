@@ -38,13 +38,11 @@ This repository is for educational and experimental purposes only. Use at your o
     pip install -r requirements.txt
     ```
 
-## Usage
+## Modules
 
-Provide instructions on how to run the experiments or projects in this repository.
+hand_gestures : just a simple hand gesture recognition module, that allows the user to grab and move the active window.
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 
