@@ -40,7 +40,7 @@ This repository is for educational and experimental purposes only. Use at your o
 
 ## Modules
 
-hand_gestures : just a simple hand gesture recognition module, that allows the user to grab and move the active window.
+- hand_gestures : just a simple hand gesture recognition module, that allows the user to grab and move the active window.
 
 
 
