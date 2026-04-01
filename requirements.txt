@@ -1,0 +1,9 @@
+opencv-python
+numpy
+scipy
+matplotlib 
+mediapipe
+opencv-python-headless
+pyautogui
+torch
+torchviz
